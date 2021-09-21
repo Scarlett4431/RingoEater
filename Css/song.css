@@ -1,0 +1,63 @@
+body {
+  font-family: sans-serif;
+  font-weight: 400;
+  line-height: 1.7;
+}
+  
+.container-fluid {
+  padding: 5% 7%;
+  } 
+
+
+  .red_section{
+    background-image: url("../Images/red_background.PNG");
+    background-size: cover;
+    color:#FFF5EE;
+  }
+
+  .white_section{
+    background-color: 	#FFF5EE;
+  }
+
+  .white_text{
+    color: #FFF5EE;
+  }
+  
+
+  /* intro */
+  #song_intro{
+    padding-top: 7rem;
+  }
+
+  .music-player{
+    padding-top: 3rem;
+  }
+
+
+  .album_img{
+    width:60%;
+    justify-content: center; /* align horizontal */
+    align-items: center;
+  }
+
+  .spotify{
+    height:80px;
+  }
+  .applemusic{
+    height:100%;
+  }
+
+
+  .list-group{
+    padding-top: 3rem;
+  }
+
+  .song_li{
+    background-color: #a94733;
+    color:#FFF5EE;
+    text-align: center;
+  }
+
+.live{
+  display: inline;
+}

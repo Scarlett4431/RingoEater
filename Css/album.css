@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+    font-weight: 400;
+    /*font-size: 16px;*/
+    line-height: 1.7;
+    text-align: center;
+  }
+
+
+.red_section{
+    background-image: linear-gradient(#af7367,#a94733);
+    color:black;
+}
+
+.white_section{
+    background-color: 	#FFF5EE;
+  }
+
+#intro{
+    padding-top: 8rem;
+    padding-bottom: 4rem;
+}
+
+.container-fluid {
+    padding: 5% 7%;
+} 
+
+.white_text{
+    color:  #FFF5EE;;
+}

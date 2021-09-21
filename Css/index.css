@@ -1,0 +1,52 @@
+body {
+    font-family: sans-serif;
+    font-weight: 400;
+    /*font-size: 16px;*/
+    line-height: 1.7;
+    text-align: center;
+  }
+
+.container-fluid {
+    padding: 5% 7%;
+    } 
+
+.white_section{
+        background-color: 	#FFF5EE;
+}
+    
+.white_text{
+        color: #FFF5EE;
+}
+
+
+.navbar{
+    margin-bottom: 0;
+    height: 64px;
+}
+
+
+.carousel-item{
+    height: 95vh;
+}
+
+.red-section{
+    background-image: linear-gradient(#a56d62,#a94733);
+    color:#FFF5EE;
+}
+
+
+
+.big-heading {
+    font-family: "Montserrat-Black";
+    font-size: 3.5rem;
+    line-height: 1.2;
+  }
+
+
+.my-icon {
+    text-shadow: 0 0 3px #000;
+}
+
+.word{
+    padding-top: 5rem;
+}
